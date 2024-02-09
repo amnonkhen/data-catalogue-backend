@@ -1,0 +1,7 @@
+flask==3.0.2
+flask_restful
+flask-restful-hal
+Flask-Cors
+jsonschema
+pymongo
+python-dotenv
